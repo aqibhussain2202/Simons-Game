@@ -14,7 +14,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/aqibhussain2202/simon-game.git
+git clone https://github.com/aqibhussain2202/Simons-Game.git
 Navigate to the project directory:
 
 bash
